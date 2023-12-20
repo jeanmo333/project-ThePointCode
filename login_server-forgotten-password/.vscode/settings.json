@@ -1,0 +1,6 @@
+{
+    "conventionalCommits.scopes": [
+        "Verification",
+        "Password-Reset"
+    ]
+}
